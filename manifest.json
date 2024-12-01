@@ -1,0 +1,10 @@
+{
+  "name": "TeaLovingLad.AAH",
+  "description": "AAH (Awesome Accessory Hoard) Contains miscellaneous accossries to dress up with.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/TeaLovingGerman/TeaLovingLadAAH",
+  "dependencies": [
+    "NotNet-GDWeave-2.0.13",
+    "Sulayre-Lure-4.2.1"
+  ]
+}
