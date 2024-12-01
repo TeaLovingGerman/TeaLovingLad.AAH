@@ -1,0 +1,15 @@
+{
+  "Id": "TeaLovingLad.AAH",
+  "AssemblyPath": null,
+  "PackPath": "TeaLovingLad.AAH.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "AAH (Awesome Accessory Hoard)",
+    "Author": "Tea-Lovng Lad",
+    "Version": "1.0.0",
+    "Description": "AAH (Awesome Accessory Hoard) contains miscellaneous accessories to dress up with.",
+    "Homepage": "https://github.com/TeaLovingGerman/TeaLovingLadAAH"
+  }
+}
