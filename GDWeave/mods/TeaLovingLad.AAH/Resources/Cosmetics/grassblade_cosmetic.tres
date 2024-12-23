@@ -2,10 +2,10 @@
 
 [ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=1]
 [ext_resource path="res://Assets/Models/Cosmetics/rig_main_updated.tres" type="Skin" id=2]
-[ext_resource path="res://mods/AAH/Assets/Textures/accessories/cosmetic_grassblade.png" type="Texture2D" id=3]
-[ext_resource path="res://mods/AAH/Assets/Textures/icons/cosmetic_icongrassblade.png" type="Texture2D" id=4]
-[ext_resource path="res://mods/AAH/Assets/Models/Accessories/Grass Blade/grassblade_dog.tres" type="ArrayMesh" id=5]
-[ext_resource path="res://mods/AAH/Assets/Models/Accessories/Grass Blade/grassblade_cat.tres" type="ArrayMesh" id=6]
+[ext_resource path="res://mods/TeaLovingLad.AAH/Assets/Textures/accessories/cosmetic_grassblade.png" type="Texture" id=3]
+[ext_resource path="res://mods/TeaLovingLad.AAH/Assets/Textures/icons/cosmetic_icongrassblade.png" type="Texture" id=4]
+[ext_resource path="res://mods/TeaLovingLad.AAH/Assets/Models/Accessories/Grass Blade/grassblade_dog.tres" type="ArrayMesh" id=5]
+[ext_resource path="res://mods/TeaLovingLad.AAH/Assets/Models/Accessories/Grass Blade/grassblade_cat.tres" type="ArrayMesh" id=6]
 
 [sub_resource type="SpatialMaterial" id=1]
 albedo_texture = ExtResource( 3 )
@@ -16,7 +16,7 @@ name = "Grassblade"
 desc = "Mmmm, tastes green."
 title = ""
 icon = ExtResource( 4 )
-mesh = ExtResource( 5 )
+mesh = ExtResource( 6 )
 species_alt_mesh = [ ExtResource( 6 ), ExtResource( 5 ) ]
 mesh_skin = ExtResource( 2 )
 material = SubResource( 1 )
