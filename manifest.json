@@ -1,10 +1,10 @@
 {
   "name": "TeaLovingLadAAH",
   "description": "AAH (Awesome Accessory Hoard) contains miscellaneous accessories to dress up with. Compatible with most modded species.",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/TeaLovingGerman/TeaLovingLad.AAH",
   "dependencies": [
     "NotNet-GDWeave-2.0.13",
-    "Sulayre-Lure-4.2.1"
+    "TeamLure-LureRefreshed-4.3.0"
   ]
 }
